@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Logical and of two boolean inputs A and B
 
 ## How to test
 
-Explain how to use your project
+Want to know if both your inputs are in the True/On/1 state? Look no further.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+One LED
